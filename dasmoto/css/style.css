@@ -1,0 +1,69 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+	background-color: #eeeeee;
+}
+
+#page-container 
+{
+	background-color: #fff;
+	width: 1200px;
+	margin: auto;
+	padding: 10px;
+	border: gray outset 1px;	
+}
+	
+h1, h2, h3, p, .price{
+	font-family: Helvetica;
+}
+
+h3{
+	line-height: 3.0em;
+}
+
+#header{
+	background-image: url("http://www.wartributeband.com/wp-content/uploads/2017/07/patternA.jpg");
+	background-color: blue;
+	background-repeat: repeat;
+    height: 350px;
+}
+
+#header h1{
+	text-align: center;
+	line-height: 250px;
+	font-size: 100px;
+	font-weight: bold;
+	color: #f0e68c; 
+	/*color: Khaki; */
+	margin: 0px 0px 30px 0px;
+}
+
+#brush{
+	background-color: #00fa9a;
+}
+
+#frames{
+	background-color: #f08080;
+}
+
+#paint{
+	background-color: #87ceeb;
+}
+
+.item{
+	padding: 20px 0px 10px 0px;
+}
+
+.item h2{
+	font-size: 32px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.price{
+	font-weight: bold;
+	color: #00f;
+}
